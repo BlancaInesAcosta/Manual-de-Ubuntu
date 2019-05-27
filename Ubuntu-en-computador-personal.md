@@ -1,10 +1,12 @@
 Contenido
 Autor: Vladimir Támara Patiño
 Actualizado: Daniel Cardona Nogueira
-1. Configuraciones posibles en CINEP/PPP
+
+1. Configuraciones posibles
 Si procesador soporta virtualización y computador tiene más de 4GB en RAM y en disco más de 160GB, emplear configuración 1,
 Si procesador es de 64 bits pero el disco es de menos de 160GB o tiene menos de 4GB en RAM emplear configuración 2.
 Si el procesador es de 32 bits emplear configuración 3.
+
 1.1 Configuración 1
 Ubuntu completo actualizado con cuentas administrativas para el usuario y si el usuario desea apoyo en actualizaciones con cuenta para la oficina de TI de nombre soporteti y clave conocida sólo por miembros de la Oficina de TI --por cambiar cuando haya cambios de personal.
 Chromium en Ubuntu
